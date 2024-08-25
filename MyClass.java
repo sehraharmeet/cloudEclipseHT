@@ -5,5 +5,6 @@ public static void main(String args[])
 	{
 		System.out.println("Sqrt("+i+")="+Math.sqrt(i));
 	}
+	System.out.println("Thanks...");
 }
 }
